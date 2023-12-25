@@ -2,7 +2,7 @@
 Steve's Car Showroom is the SQL Challenge-1 of Steeldata 
 
 - Challenge link- https://www.steeldata.org.uk/sql.html
-- Link for query editor link :- https://www.db-fiddle.com/f/dBdxNbaq7PEPpe8oZrUuvy/0
+
 - This task is based on 3 tables- cars,sales and salespersons from which data is retrieved according to the questions given .
 - Methods like Group by, Order by, aggregare functions(sum(),count()) were utilised in this challenge.
   
